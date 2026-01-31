@@ -1,0 +1,232 @@
+{
+  "brand": "KrishiSetu",
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "farmersHelpdesk": "Farmer's Helpdesk",
+    "farmingAwareness": "Farming Awareness",
+    "marketplace": "Marketplace"
+  },
+  "hero": {
+    "title": "Welcome to KrishiSetu",
+    "subtitle": "Revolutionizing agriculture through smart technology. Connect with fellow farmers, access market insights, and grow your farm with our innovative platform.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
+  },
+  "features": {
+    "heading": "Why Choose KrishiSetu?",
+    "subheading": "Our platform provides everything you need to modernize your farming operations and increase your productivity.",
+    "cards": [
+      { "title": "Image Disease Detection", "desc": "Detect diseases in your crops with advanced image recognition technology.", "icon": "🔍" },
+      { "title": "AI ChatBot", "desc": "Get real-time answers to your questions with our AI chatbot.", "icon": "🤖" },
+      { "title": "Weather Forecast", "desc": "Weather predictions to help you plan your farming activities and protect your crops.", "icon": "🌤️" },
+      { "title": "Fertilizer Recommendation", "desc": "Get recommendations for the best fertilizers for your crops.", "icon": "🌱" },
+      { "title": "Query Support", "desc": "Get support for your queries with our experts.", "icon": "💬", "link":"/farmers-helpdesk" }
+    ]
+  },
+  "contact": {
+    "heading": "Get In Touch",
+    "subheading": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your full name",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "Enter your phone number",
+    "message": "Message",
+    "messagePlaceholder": "Enter your message",
+    "submit": "Send Message",
+    "submitSuccess": "Your message has been submitted. We'll respond as soon as possible."
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email Address",
+      "password": "Password",
+      "cta": "Login",
+      "noAccount": "Don't have an account?",
+      "signupHere": "Sign up here"
+    },
+    "signup": {
+      "title": "Sign Up",
+      "name": "Full Name",
+      "number": "Mobile Number",
+      "email": "Email Address",
+      "age": "Age",
+      "address": "Address",
+      "farmSize": "Farm Size (acres)",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "cta": "Sign Up",
+      "haveAccount": "Already have an account?",
+      "loginHere": "Login here"
+    }
+  },
+  "common": {
+    "optional": "optional"
+  },
+  "footer": {
+    "brand": "KrishiSetu",
+    "description": "Revolutionizing agriculture through smart technology and connecting farmers for a sustainable future.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "features": "Features",
+    "contact": "Contact",
+    "support": "Support",
+    "helpCenter": "Help Center",
+    "docs": "Documentation",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contactInfo": "Contact Info",
+    "tagline": "Built with ❤️ for Symbiosis Skill Hackathon"
+  },
+    "helpdesk": {
+        "title": "Farmer's Helpdesk",
+        "intro": "Find your division supervisor and reach out instantly, or submit a query below.",
+        "findSupervisor": "Find Your Division Supervisor",
+        "state": "State",
+        "division": "Division",
+        "selectState": "Select State",
+        "selectDivision": "Select Division",
+        "selectStateFirst": "Select State first",
+        "details": "Supervisor Details",
+        "name": "Name",
+        "helpline": "Helpline",
+        "email": "Email",
+        "callNow": "Call Now",
+        "sendEmail": "Send Email",
+        "chatTitle": "Query Support",
+        "farmerName": "Farmer Name",
+        "replyMobile": "Reply Mobile No.",
+        "yourQuery": "Your Query (Hindi/English)",
+        "typeQuestion": "Type your question here",
+        "micHint": "Use the mic button to dictate your query. Works best in Chrome.",
+        "speak": "Speak",
+        "stop": "Stop",
+        "submit": "Submit Query",
+        "voiceUnsupported": "Voice typing is not supported in this browser.",
+        "submitSuccess": "Your query has been submitted. Our supervisor will contact you shortly.",
+        "placeholder": {
+            "farmerName": "Enter your name",
+            "mobile": "Enter mobile number"
+        }
+    },
+    "awareness": {
+        "title": "Farming Awareness",
+        "subtitle": "Learn modern farming techniques, best practices, and success stories from fellow farmers.",
+        "showMore": "Show More",
+        "hideMore": "Show Less",
+        "relatedVideos": "Related Videos",
+        "successStories": "Success Stories",
+        "successStoriesSubtitle": "Real farmers sharing their journey and achievements",
+        "shareStory": "Share Your Success Story",
+        "shareStorySubtitle": "Inspire others by sharing your farming success on YouTube",
+        "youtubeLinkLabel": "YouTube Video Link",
+        "youtubeLinkPlaceholder": "https://youtube.com/watch?v=...",
+        "youtubeLinkHelp": "Paste your YouTube video link here. It can be a regular video or YouTube Short.",
+        "submitButton": "Share Story",
+        "submitSuccess": "Thank you! Your success story has been submitted for review.",
+        "cards": {
+            "modernMachinery": {
+                "title": "Modern Machinery",
+                "description": "Easy to use and efficient machinery for farming."
+            },
+            "modernCrops": {
+                "title": "Modern Crops",
+                "description": "Modern crops like dragon fruit and kiwi for farming."
+            },
+            "crossbreeding": {
+                "title": "Crossbreeding & New Varieties",
+                "description": "Disease-resistant and high-quality crops"
+            },
+            "urbanFarming": {
+                "title": "Rooftop & Urban Farming",
+                "description": "Farming in urban areas with limited space."
+            },
+            "globalTechnologies": {
+                "title": "Adopting Global Technologies",
+                "description": "Advanced farming techniques of the world"
+            },
+            "digitalFarming": {
+                "title": "Digital Farming",
+                "description": "Smart monitoring in irrigation, seeds, and pest management. Saves time and labor."
+            }
+        },
+        "successStoryTitles": {
+            "amazingFarming": "Amazing Farming Success Story",
+            "modernTechniques": "Modern Farming Techniques Success",
+            "sustainableAgriculture": "Sustainable Agriculture Success"
+        },
+        "successStoryDescriptions": {
+            "amazingFarming": "Real farmer sharing their incredible journey and achievements",
+            "modernTechniques": "How new technology transformed traditional farming",
+            "sustainableAgriculture": "Eco-friendly farming methods that increased productivity"
+        }
+    }
+  ,
+  "marketplace": {
+    "title": "Marketplace",
+    "subtitle": "Browse and create listings. Expired items auto-delist.",
+    "tabs": {
+      "all": "All",
+      "mine": "My Listings",
+      "history": "History"
+    },
+    "filters": {
+      "search": "Search keywords",
+      "category": "All categories",
+      "minPrice": "Min price",
+      "maxPrice": "Max price",
+      "city": "City",
+      "state": "State",
+      "distance": "Distance (km)",
+      "useMyLocation": "Use my location",
+      "reset": "Reset",
+      "createListing": "Create Listing"
+    },
+    "empty": "No listings to show.",
+    "card": {
+      "expires": "Expires:",
+      "whatsapp": "WhatsApp",
+      "call": "Call",
+      "noImageAlt": "No image available",
+      "noImageText": "No Image"
+    },
+    "modal": {
+      "title": "Create Listing",
+      "labels": {
+        "title": "Title",
+        "category": "Category",
+        "price": "Price",
+        "currency": "Currency",
+        "description": "Description",
+        "city": "City",
+        "state": "State",
+        "phone": "Phone",
+        "whatsapp": "WhatsApp",
+        "expiryDays": "Expiry (days)"
+      },
+      "placeholders": {
+        "title": "e.g., Cold-pressed mustard oil 5L",
+        "selectCategory": "Select category",
+        "price": "e.g., 950",
+        "description": "Short details about the item",
+        "city": "e.g., Jaipur",
+        "state": "e.g., Rajasthan",
+        "phone": "e.g., +91 90000 11111",
+        "whatsapp": "Optional, else uses Phone",
+        "expiryDays": "e.g., 7"
+      },
+      "actions": {
+        "cancel": "Cancel",
+        "add": "Add Listing"
+      }
+    }
+  }
+}
+
+
